@@ -51,7 +51,13 @@ body {
     -webkit-transform: translateY(-10px);
     transform: translateY(-10px);
   }
+}
 
 .interesting-things {
   list-style-type: square;
+}
+
+/* Social media  */
+.top-divider {
+  border-style: solid none none;
 }
