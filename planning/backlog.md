@@ -9,22 +9,20 @@ create your own!
 
 > these are necessary for basic usability
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- **Home Page**
+  - As a user I can read the title of the page
+    - [ ] _there is a prominent title at the top of the web page_
+- As a user I can see the logo of the page
+  - [ ] _there are two logos at the top of the web page_
+- As a user I can see the navigation links to this project
+  - [ ] \_there is a section with the links
+- As a user I can read this project description
+  - [ ] _there is a section describing the project's goals_
+- As a user I can click to some links
+  - [ ] \_there are some helpful links
+- As a user I can navigate to the social media
+  - [ ] \_there are some links to social media
 
 ## Should-Haves
 
-> these will complete the user experience, but are not necessary
-
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
-
 ## Could-Haves
-
-> would be really cool ... if there's time
-
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
