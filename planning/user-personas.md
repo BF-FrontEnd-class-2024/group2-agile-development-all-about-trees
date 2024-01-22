@@ -8,7 +8,7 @@
 
 ## Carrol, 43
 
-![photo](./Carroll43.jpg)
+![photo](./carroll.jpg)
 
 - **Her name's Carrol, she's 43 y.o. and she has taken care about garden almost
   10 years.**
@@ -24,14 +24,16 @@
 
 ## Lillian, 17
 
-![photo](./Lillian17.jpg)
+![photo](./lillian.jpg)
 
 - **Her name's Lillian and she's first year student at biological university.**
 - **She needs to find more info about trees in short term for her projeсt.**
+
 - **She has to prepare her first presentation, and she doesn't know where to
   find the information, the books she has read all seem complicated, so she's
   looking for a site where she can find basic information to help her develop
   her project.**
+
 - **She's looking for new facts about tree and this site she likes more, cos
   there only important info. So she doesn't need spend a lot of time for
   reading.**
