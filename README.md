@@ -1,6 +1,6 @@
 # Name of project
 
-All about Trees
+> All about Trees
 
 ## Table of contents
 
@@ -33,19 +33,23 @@ All about Trees
 
 - Node 14.16.0
 - VSC code
-- JavaScript
-- ...
-- ...
+- HTML5
+- CSS3
 
 ## Setup
 
-- `npm run start`
+- clone the repo
+- npm install
+- enjoy
 
 ## Code Examples
 
-```js
-// the hello world program
-console.log("Hello World");
+```HTML
+<div class="spaced-items">
+      <a href="#summary-info">intro</a>
+      <a href="#main-info">content</a>
+      <a href="#extra-info">extras</a>
+</div>
 ```
 
 ## Features
@@ -71,7 +75,9 @@ Project by freeCodeCamp.org
 
 ## Contact
 
-By [Name]
+By [Agnieszka](https://github.com/Agnieszka-Dzwolak),
+[Yana](https://github.com/enteryana), [Adil](https://github.com/AdilCodeBX),
+[Gultekin](https://github.com/gultekinbirol)
 
 ## Instructions for use
 
