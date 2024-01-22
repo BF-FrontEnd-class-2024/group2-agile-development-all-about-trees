@@ -1,4 +1,6 @@
+/* stylelint-disable no-duplicate-selectors */
 /* stylelint-disable property-no-vendor-prefix */
+
 /* General styles  */
 
 body {
@@ -57,6 +59,11 @@ body {
     -webkit-transform: translateY(-10px);
     transform: translateY(-10px);
   }
+}
+
+/* Description */
+.fascinating-words {
+  font-family: fantasy;
 }
 
 /* More links */
