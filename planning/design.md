@@ -2,16 +2,12 @@
 
 ## Project's design overview
 
-> Give an overview of your project's design
-
-<!-- give an overview of your project's design -->
-<!-- describe the reasoning behind your group's design and wireframe -->
-<!-- include other centralized decisions like fonts, palates, ... -->
+> In our project there is a title between two logos. Nearby you can find
+> navigation links. Below there is a description and some other links. You can
+> find a footer on the bottom of the page with the links to social media.
 
 ---
 
 ## Wireframe(s)
 
-> Include your wireframe(s) and link to wireframe
-
-<!-- provide a link to your wireframe documenting on Figma, or wherever it is -->
+![design](design.png)
