@@ -1,6 +1,6 @@
 # Name of project
 
-> A longer description
+All about Trees
 
 ## Table of contents
 
@@ -22,7 +22,8 @@
 
 ## General info
 
-> A short description
+> A simple website about trees with some basic info and interesting facts and
+> links.
 
 ## Screenshots
 
