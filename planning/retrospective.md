@@ -2,7 +2,7 @@
 
 ## Stop Doing
 
-- mistakes
+- don't be late
 
 ## Continue Doing
 
