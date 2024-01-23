@@ -23,7 +23,8 @@
     "Yana",
     "Carrol",
     "groving",
-    "projeсt"
+    "projeсt",
+    "stylelint"
   ],
   "ignorePaths": [
     "node_modules/**",
