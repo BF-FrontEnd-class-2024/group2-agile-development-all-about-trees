@@ -1,6 +1,6 @@
-# Name of project
+# All about Trees
 
-> All about Trees
+> A simple website about trees
 
 ## Table of contents
 
@@ -27,7 +27,7 @@
 
 ## Screenshots
 
-![Example screenshot](./planning/screenshot.jpg)
+![Example screenshot](./planning/oursite.png)
 
 ## Technologies
 
@@ -67,7 +67,7 @@ To-do list:
 
 ## Status
 
-Project is: _in progress_
+Project is: _done_
 
 ## Inspiration
 
