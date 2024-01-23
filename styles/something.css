@@ -1,4 +1,8 @@
+/* stylelint-disable no-duplicate-selectors */
+/* stylelint-disable property-no-vendor-prefix */
+
 /* General styles  */
+
 body {
   background-color: white;
 }
@@ -21,6 +25,10 @@ body {
   justify-content: space-around;
   padding-top: 2%;
   padding-bottom: 2%;
+}
+
+.fascinating-words {
+  font-family: fantasy;
 }
 
 /* Logos */
@@ -52,6 +60,13 @@ body {
     transform: translateY(-10px);
   }
 }
+
+/* Description */
+.fascinating-words {
+  font-family: fantasy;
+}
+
+/* More links */
 
 .interesting-things {
   list-style-type: square;
